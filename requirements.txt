@@ -1,0 +1,5 @@
+mechanize
+bs4
+aiohttp
+pyppeteer
+unidecode

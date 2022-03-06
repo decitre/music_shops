@@ -4,7 +4,7 @@ Tool to interact with some music web shops, find specific music, and plan purcha
 
 Tested on macos and termux.
 
-Disclaimer: this tool is not a web scraper, since data is neither aggretated or stored.
+Disclaimer: this tool is not a web scraper. Data is neither aggregated nor stored.
 
 
 <!--
